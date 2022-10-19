@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GVS22
-- 👀 I’m interested in blockchain development.
-- 🌱 I’m currently learning solidity...
+
 - 📫 How to reach me https://www.linkedin.com/in/gabriel-vitor-87b7b2236
 
 <!---
